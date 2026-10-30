@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-30",
+  "scope": "Read-only verification through authorized HSMPLC-Workstation connection",
+  "solaris": {
+    "path": "C:\\Users\\hakee\\suntari-universe-orchestrator-plugin\\assets\\approved\\Solaris\\SOLARIS-CHARACTER-REFERENCE-v1.0.png",
+    "exists": true,
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "sha256": "b5dda11cc6ab10d099bf14dc6846940e7afad9ca4a01a79ff3cafc01436fb132",
+    "comparison": "MATCHES_RECORDED_APPROVED_MASTER"
+  },
+  "style_v008": {
+    "paths": [
+      "C:\\Users\\hakee\\Downloads\\SUNTARI_S01_I01_Execution\\SC-I01-002c\\S01_I01_P03_continuity_revision_v008.png",
+      "C:\\Users\\hakee\\OneDrive\\Suntari Shared Production Library - Private\\SUNTARI-S01-I01\\03_panel_renders\\S01_I01_P03_continuity_revision_v008.png"
+    ],
+    "exists": [
+      true,
+      true
+    ],
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "measured_sha256": "5f5fb62d0b1f919c18c6a24d93e5001d7917cfb78d0afe4ee93b0dacc79b1023",
+    "comparison": "TWO_LOCAL_COPIES_BYTE_IDENTICAL",
+    "approval_boundary": "Measured integrity only; not new creator approval or independent visual review"
+  },
+  "five_view_folder": {
+    "path": "C:\\Users\\hakee\\Downloads\\SUNTARI_S01_I01_Execution\\Solaris_FiveView_Test",
+    "exists": false
+  },
+  "cloud_report": {
+    "attribution": "User supplied cloud-agent report; validator/evidence bytes not retrieved",
+    "reported_preflight": "FAIL_CLOSED",
+    "independently_reproduced": false,
+    "reported_battle_exclusion": "Truncated hash only; full binding and test logic unverified"
+  },
+  "pending": [
+    "Obtain originating repository/commit or exported validator, launcher, frozen prompt file and cloud evidence JSON",
+    "Retrieve exact runnable ComfyUI revision 2 workflow and full frozen settings",
+    "Review scripts before any local execution",
+    "Run actual source-bound preflight and separate generation when ready"
+  ],
+  "source_files_changed": 0,
+  "generation_runs": 0,
+  "issue_release": "HOLD"
+}
