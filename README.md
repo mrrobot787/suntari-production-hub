@@ -2,6 +2,7 @@
 Private navigation and evidence index for existing Suntari Comics work.
 
 ## Start here
+- [Cursor agent handoff](CURSOR_HANDOFF.md): exact source routes, validation task and approval boundaries.
 - [File index](catalog/file-index.json): relative filenames, source-root labels, sizes and timestamps; file contents are not copied.
 - [Source map](bindings/source-map.json): identifies the three existing folder roles.
 - [Current checkpoint](evidence/current-status.md): known installation and validation boundaries.
