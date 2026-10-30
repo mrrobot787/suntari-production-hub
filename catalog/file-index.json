@@ -1,0 +1,1867 @@
+{
+  "created_at_utc": "2026-10-30T17:45:27.559064+00:00",
+  "scope": "Metadata only from three authorized project roots; no source file contents uploaded",
+  "source_roots": [
+    "orchestrator",
+    "execution",
+    "production"
+  ],
+  "files": [
+    {
+      "root": "orchestrator",
+      "relative_path": "plugin.json",
+      "size_bytes": 818,
+      "mtime_ns": 1792355353055520100,
+      "content_copied": false
+    },
+    {
+      "root": "orchestrator",
+      "relative_path": "assets/approved/Solaris/SOLARIS-CHARACTER-REFERENCE-v1.0.png",
+      "size_bytes": 2993844,
+      "mtime_ns": 1793379703221674800,
+      "content_copied": false
+    },
+    {
+      "root": "orchestrator",
+      "relative_path": "assets/approved/Solaris/asset-manifest.json",
+      "size_bytes": 1063,
+      "mtime_ns": 1793379703261752900,
+      "content_copied": false
+    },
+    {
+      "root": "orchestrator",
+      "relative_path": "skills/suntari-universe-orchestrator/SKILL.md",
+      "size_bytes": 2780,
+      "mtime_ns": 1792422933178417200,
+      "content_copied": false
+    },
+    {
+      "root": "orchestrator",
+      "relative_path": "skills/suntari-universe-orchestrator/agents/openai.yaml",
+      "size_bytes": 298,
+      "mtime_ns": 1792355353086611000,
+      "content_copied": false
+    },
+    {
+      "root": "orchestrator",
+      "relative_path": "skills/suntari-universe-orchestrator/references/canon-locks.md",
+      "size_bytes": 3101,
+      "mtime_ns": 1792422907901667800,
+      "content_copied": false
+    },
+    {
+      "root": "orchestrator",
+      "relative_path": "skills/suntari-universe-orchestrator/references/integration.md",
+      "size_bytes": 1724,
+      "mtime_ns": 1792355353116775400,
+      "content_copied": false
+    },
+    {
+      "root": "orchestrator",
+      "relative_path": "skills/suntari-universe-orchestrator/references/production-governance.md",
+      "size_bytes": 1291,
+      "mtime_ns": 1792355353110774800,
+      "content_copied": false
+    },
+    {
+      "root": "orchestrator",
+      "relative_path": "skills/suntari-universe-orchestrator/references/solaris-identity-lock.md",
+      "size_bytes": 2063,
+      "mtime_ns": 1792422887378365300,
+      "content_copied": false
+    },
+    {
+      "root": "orchestrator",
+      "relative_path": "skills/suntari-universe-orchestrator/references/visual-assets.md",
+      "size_bytes": 3153,
+      "mtime_ns": 1792422885367486300,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "LOCAL_QA_SUMMARY.json",
+      "size_bytes": 1281,
+      "mtime_ns": 1792790386955596600,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "run_local_qa.py",
+      "size_bytes": 4365,
+      "mtime_ns": 1792796080238707400,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002b/P01_Marcus_EditableFaceLayer_v001.png",
+      "size_bytes": 1565243,
+      "mtime_ns": 1792782554000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002b/P01_Marcus_FaceMask_v001.png",
+      "size_bytes": 1029,
+      "mtime_ns": 1792782554000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002b/P01_Marcus_FaceRetouch_Layered_CANDIDATE_v001.ora",
+      "size_bytes": 4503623,
+      "mtime_ns": 1792768688236360900,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002b/P01_Marcus_Magnified_PixelDiff_Proof_v001.png",
+      "size_bytes": 48620,
+      "mtime_ns": 1792782634000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002b/P01_Marcus_MaskPosition_ANNOTATION_v001.png",
+      "size_bytes": 1391414,
+      "mtime_ns": 1792782556000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002b/P01_PNL_Middle_MarcusCheekRetouch_CANDIDATE_v001.png",
+      "size_bytes": 1390461,
+      "mtime_ns": 1792782552000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002b/P01_SurgicalSpike_BeforeAfter_Reference_v001.png",
+      "size_bytes": 502274,
+      "mtime_ns": 1792782556000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002b/SC-I01-002b_Compositing_Validation_v001.json",
+      "size_bytes": 899,
+      "mtime_ns": 1792782634000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002b/SC-I01-002b_Editor_Handoff.md",
+      "size_bytes": 3446,
+      "mtime_ns": 1792782800000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002b/SC-I01-002b_MaskedSpike_Audit_v001.json",
+      "size_bytes": 2224,
+      "mtime_ns": 1792790395946807000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002b/retouch_one_face.py",
+      "size_bytes": 7462,
+      "mtime_ns": 1792782550000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002b/validate_spike.py",
+      "size_bytes": 3838,
+      "mtime_ns": 1792782634000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002c/P02_CheekGrooming_SourceLocked_CANDIDATE_v001.ora",
+      "size_bytes": 4518309,
+      "mtime_ns": 1792784437312075000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002c/P02_Face_BeforeAfter_vs_P03_REFERENCE_v001.png",
+      "size_bytes": 378060,
+      "mtime_ns": 1792798442000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002c/P02_Face_LocalEdit_Audit_v001.json",
+      "size_bytes": 1883,
+      "mtime_ns": 1792798430000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002c/P02_TOP_CheekGrooming_EditLayer_v001.png",
+      "size_bytes": 1584967,
+      "mtime_ns": 1792798442000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002c/P02_TOP_FACE_vs_P03_REFERENCE.png",
+      "size_bytes": 494767,
+      "mtime_ns": 1792798240000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002c/P02_TOP_Face_AllowedMask_v001.png",
+      "size_bytes": 940,
+      "mtime_ns": 1792798442000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002c/P02_TOP_Marcus_CheekGrooming_CANDIDATE_v001.png",
+      "size_bytes": 1400770,
+      "mtime_ns": 1792798442000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002c/S01_I01_P02_from_creator_accepted_spread_REVIEW_CROP_v002.png",
+      "size_bytes": 1406633,
+      "mtime_ns": 1792798156000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002c/S01_I01_P03_continuity_revision_v008.png",
+      "size_bytes": 2745687,
+      "mtime_ns": 1792798162000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002c/SC-I01-002c_Artistic_Review_Handoff_v001.md",
+      "size_bytes": 4116,
+      "mtime_ns": 1792798500000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002c/ZIP_MANIFEST.json",
+      "size_bytes": 1833,
+      "mtime_ns": 1792798502000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-002c/retouch_page02_cheek.py",
+      "size_bytes": 5854,
+      "mtime_ns": 1792798426000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-005/Orion_Creator_Approved_Reference.png",
+      "size_bytes": 3465235,
+      "mtime_ns": 1792802784000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-005/P03_Marcus_Approved_Primary_Reference.png",
+      "size_bytes": 2745687,
+      "mtime_ns": 1792802784000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-005/P11_Kaldraak_Warning_Review_Candidate.png",
+      "size_bytes": 2607674,
+      "mtime_ns": 1792802784000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-005/P11_to_P12_ActualSource_Transition_Gap_Proof_v002.png",
+      "size_bytes": 992146,
+      "mtime_ns": 1792802786000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-005/P12_Exact_EditBoundary_Annotated_v002.png",
+      "size_bytes": 2838129,
+      "mtime_ns": 1792802786000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-005/P12_PNL01_EditableInterior_Mask_v002.png",
+      "size_bytes": 2431,
+      "mtime_ns": 1792802784000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-005/P12_PNL01_Selected_Original_Extract.png",
+      "size_bytes": 897986,
+      "mtime_ns": 1792802784000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-005/P12_PNL01_SourceLocked_COMPOSITOR_STARTER_v001.ora",
+      "size_bytes": 6391813,
+      "mtime_ns": 1792790378352172600,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-005/P12_PNL02_PNL03_Protected_Exact_Pixels.png",
+      "size_bytes": 2090718,
+      "mtime_ns": 1792802784000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-005/P12_Selected_Immutable_Original.png",
+      "size_bytes": 3217915,
+      "mtime_ns": 1792802784000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-005/README_ARTIST_HANDOFF_v005.md",
+      "size_bytes": 3818,
+      "mtime_ns": 1792809906000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-005/S01_I01_P12_PNL01_SOURCE_LOCK_v005.ora",
+      "size_bytes": 6335784,
+      "mtime_ns": 1792809906000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-005/SC-I01-005_Artist_Compositor_Handoff_v002.md",
+      "size_bytes": 2920,
+      "mtime_ns": 1792802786000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-005/SC-I01-005_P12_Source_Locked_Handoff_Manifest_v002.json",
+      "size_bytes": 2332,
+      "mtime_ns": 1792802786000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-005/SC-I01-005_Pixel_Boundary_Tests_v002.json",
+      "size_bytes": 1843,
+      "mtime_ns": 1792802946000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-005/panel_contract.json",
+      "size_bytes": 4472,
+      "mtime_ns": 1792809906000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-005/validate_p12_panel1_patch.py",
+      "size_bytes": 2555,
+      "mtime_ns": 1792802942000000000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v001/P06_UpperWarning_Segmentation_DIAGNOSTIC_CROP_v001.png",
+      "size_bytes": 67927,
+      "mtime_ns": 1793050568671961800,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v001/P06_UpperWarning_Segmentation_DIAGNOSTIC_v001.json",
+      "size_bytes": 1983,
+      "mtime_ns": 1793050568687043300,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v001/P06_UpperWarning_Segmentation_DIAGNOSTIC_v001.png",
+      "size_bytes": 2837051,
+      "mtime_ns": 1793050568665955600,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v001/README_FAIL_CLOSED.md",
+      "size_bytes": 951,
+      "mtime_ns": 1793050568688041300,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v001/build_mask_proposal.py",
+      "size_bytes": 5678,
+      "mtime_ns": 1793050561120136300,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v002/P06_UpperWarning_REVIEW_MASK_v002.json",
+      "size_bytes": 2501,
+      "mtime_ns": 1793099788705452800,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v002/P06_UpperWarning_REVIEW_MASK_v002.png",
+      "size_bytes": 1910,
+      "mtime_ns": 1793099788454877800,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v002/P06_UpperWarning_REVIEW_OVERLAY_CROP_v002.png",
+      "size_bytes": 57170,
+      "mtime_ns": 1793099788685441000,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v002/P06_UpperWarning_REVIEW_OVERLAY_v002.png",
+      "size_bytes": 2825157,
+      "mtime_ns": 1793099788680924900,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v002/README_REVIEW_ONLY.md",
+      "size_bytes": 956,
+      "mtime_ns": 1793099788705452800,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v002/build_review_mask_v002.py",
+      "size_bytes": 7618,
+      "mtime_ns": 1793050956387212400,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v003/MANUAL_MASK_AUTHORING_GUIDE.md",
+      "size_bytes": 3713,
+      "mtime_ns": 1793197561339038600,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v003/P06_UpperWarning_MANUAL_MASK_TEMPLATE_v003.png",
+      "size_bytes": 1605,
+      "mtime_ns": 1793195547274866700,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v003/P06_UpperWarning_TRACING_REFERENCE_CROP_v003.png",
+      "size_bytes": 72724,
+      "mtime_ns": 1793195547317441300,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v003/README_MANUAL_v003.md",
+      "size_bytes": 711,
+      "mtime_ns": 1793197561825230700,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v003/SEAM_OWNERSHIP_CONTRACT_v004_DRAFT.md",
+      "size_bytes": 3360,
+      "mtime_ns": 1793197559690162700,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v003/validate_manual_mask_v003.py",
+      "size_bytes": 6988,
+      "mtime_ns": 1793197563890064800,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v004/P06_Protected_Lower_OVERLAY_v004.png",
+      "size_bytes": 3258326,
+      "mtime_ns": 1793198423451851700,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v004/P06_Protected_Lower_REGION_v004.png",
+      "size_bytes": 1830,
+      "mtime_ns": 1793198423183879500,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v004/P06_Seam_Contract_COMBINED_OVERLAY_v004.png",
+      "size_bytes": 3258000,
+      "mtime_ns": 1793198423810931600,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v004/P06_Seam_Contract_Manifest_v004.json",
+      "size_bytes": 2666,
+      "mtime_ns": 1793198423922325200,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v004/P06_Seam_Contract_QA_v004.json",
+      "size_bytes": 4956,
+      "mtime_ns": 1793198424725884700,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v004/P06_Seam_Contract_REVIEW_CROP_v004.png",
+      "size_bytes": 119832,
+      "mtime_ns": 1793198423833454200,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v004/P06_Seam_Rows_79_88_PIXEL_REVIEW_v004.png",
+      "size_bytes": 47043,
+      "mtime_ns": 1793198423864024300,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v004/P06_Upper_Seam_ALLOWLIST_OVERLAY_v004.png",
+      "size_bytes": 3262776,
+      "mtime_ns": 1793198423630255400,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v004/P06_Upper_Seam_ALLOWLIST_v004.png",
+      "size_bytes": 1605,
+      "mtime_ns": 1793198423188884500,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v004/README.md",
+      "size_bytes": 1924,
+      "mtime_ns": 1793198276974892800,
+      "content_copied": false
+    },
+    {
+      "root": "execution",
+      "relative_path": "SC-I01-011-P06/mask-proposal-v004/validate_seam_contract_v004.py",
+      "size_bytes": 11998,
+      "mtime_ns": 1793198411684419100,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "01_character_refs/ORION-MICHAEL-HARRIS-CHARACTER-REFERENCE-v1.0-CREATOR-APPROVED.png",
+      "size_bytes": 3465235,
+      "mtime_ns": 1792693751000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "01_character_refs/SOLARIS-CHARACTER-REFERENCE-v1.0(1).png",
+      "size_bytes": 3700237,
+      "mtime_ns": 1792517154000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "01_character_refs/SOLARIS-CHARACTER-REFERENCE-v1.0.png",
+      "size_bytes": 2993844,
+      "mtime_ns": 1793379636000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "01_character_refs/VOIDSTAR-CHARACTER-REFERENCE-v1.0-CREATOR-SUPPLIED.png",
+      "size_bytes": 3968100,
+      "mtime_ns": 1792697380000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "02_prompts/S01_I01_P03_generation_brief_v001.md",
+      "size_bytes": 4492,
+      "mtime_ns": 1792505895000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/P01_Marcus_Grooming_CONTINUITY_CANDIDATE_v002.png",
+      "size_bytes": 1389915,
+      "mtime_ns": 1792785112000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/P11_Kaldraak_Warning_Lettering_CANDIDATE_v001.png",
+      "size_bytes": 2607674,
+      "mtime_ns": 1792785151000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P03_continuity_revision_v008.png",
+      "size_bytes": 2745687,
+      "mtime_ns": 1792526692000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P03_creator_selected_concept_v002.png",
+      "size_bytes": 2555852,
+      "mtime_ns": 1792514025000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P03_hybrid_lettering_proof_v003.png",
+      "size_bytes": 2497734,
+      "mtime_ns": 1792515478000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P03_illustrated_style_candidate_v004.png",
+      "size_bytes": 2841483,
+      "mtime_ns": 1792516213000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P03_rainy_continuity_revision_v006.png",
+      "size_bytes": 2922760,
+      "mtime_ns": 1792526033000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P03_two_state_identity_candidate_v005.png",
+      "size_bytes": 2858784,
+      "mtime_ns": 1792524729000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P04_echoes_of_exile_provisional_v001.png",
+      "size_bytes": 3027241,
+      "mtime_ns": 1792527546000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P04_nondestructive_refraction_candidate_v004.png",
+      "size_bytes": 3234145,
+      "mtime_ns": 1792528782000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P04_vision_distortion_candidate_v003.png",
+      "size_bytes": 3265864,
+      "mtime_ns": 1792528549000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P05_cost_of_light_creator_approved_v001.png",
+      "size_bytes": 2873986,
+      "mtime_ns": 1792530328000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P06_fire_chief_overheard_REVIEW_CANDIDATE_v001.png",
+      "size_bytes": 2781143,
+      "mtime_ns": 1792757094000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P06_fire_chief_warning_LETTERING_CANDIDATE_v001.png",
+      "size_bytes": 2758746,
+      "mtime_ns": 1792811139000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P06_fire_chief_warning_RECONSTRUCTION_SELECTED_v005.png",
+      "size_bytes": 2858016,
+      "mtime_ns": 1793206559373915800,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P06_people_inside_creator_approved_v003.png",
+      "size_bytes": 2950647,
+      "mtime_ns": 1792531437000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P07_fire_bends_creator_approved_v003.png",
+      "size_bytes": 2933907,
+      "mtime_ns": 1792532918000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P08_way_out_creator_accepted_v001.png",
+      "size_bytes": 3061712,
+      "mtime_ns": 1792687504000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P08_way_out_creator_approved_20261023_v002.png",
+      "size_bytes": 3225602,
+      "mtime_ns": 1792760959000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P09_glowing_ledger_derivative_UNAPPROVED_v004.png",
+      "size_bytes": 3204308,
+      "mtime_ns": 1792760972000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P09_ledger_discovery_creator_approved_20261023_v003.png",
+      "size_bytes": 3166322,
+      "mtime_ns": 1792760966000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P09_ledger_handoff_creator_accepted_v001.png",
+      "size_bytes": 2972581,
+      "mtime_ns": 1792687510000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P09_ledger_handoff_refinement_candidate_v002.png",
+      "size_bytes": 2984759,
+      "mtime_ns": 1792687518000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P10_orion_arrival_REVIEW_CANDIDATE_UNBOUND_v001.png",
+      "size_bytes": 3270659,
+      "mtime_ns": 1792754645000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P11_The_Ledger_Awakens_logo_free_v003.png",
+      "size_bytes": 2733335,
+      "mtime_ns": 1792704849000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P11_ledger_awakens_v001_GENERATED.png",
+      "size_bytes": 3340440,
+      "mtime_ns": 1792703157000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P11_ledger_awakens_v002_GOLD_HEADER_GENERATED.png",
+      "size_bytes": 2993009,
+      "mtime_ns": 1792703164000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/S01_I01_P12_solaris_workshop_REVIEW_CANDIDATE_v001.png",
+      "size_bytes": 3217915,
+      "mtime_ns": 1792754652000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/SC_I01_002b_P01_Marcus_GroomingPatch_CANDIDATE_v001.png",
+      "size_bytes": 1390461,
+      "mtime_ns": 1792768290000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "03_panel_renders/SC_I01_002c_P02_Marcus_CheekGrooming_REVIEW_CANDIDATE_v001.png",
+      "size_bytes": 1400770,
+      "mtime_ns": 1792784136000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "04_page_assembly/P01_Marcus_Grooming_Layered_CANDIDATE_v002.ora",
+      "size_bytes": 4501512,
+      "mtime_ns": 1792785126000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "04_page_assembly/P11_Warning_Lettering_Layered_CANDIDATE_v001.ora",
+      "size_bytes": 8464602,
+      "mtime_ns": 1792785161000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "04_page_assembly/S01_I01_P01-P02_creator_approved_storyboard_v001.png",
+      "size_bytes": 2931366,
+      "mtime_ns": 1792497527000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "04_page_assembly/S01_I01_P01-P02_refined_creator_accepted_v002.png",
+      "size_bytes": 2942307,
+      "mtime_ns": 1792760954000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "04_page_assembly/S01_I01_P01_creator_accepted_spread_review_crop_v002.png",
+      "size_bytes": 1403005,
+      "mtime_ns": 1792761735000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "04_page_assembly/S01_I01_P01_review_crop_from_approved_spread_v001.png",
+      "size_bytes": 1364177,
+      "mtime_ns": 1792754658000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "04_page_assembly/S01_I01_P02_creator_accepted_spread_review_crop_v002.png",
+      "size_bytes": 1406633,
+      "mtime_ns": 1792761743000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "04_page_assembly/S01_I01_P02_review_crop_from_approved_spread_v001.png",
+      "size_bytes": 1425947,
+      "mtime_ns": 1792754663000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "04_page_assembly/S01_I01_P12_PNL01_SOURCE_LOCK_v005.ora",
+      "size_bytes": 6335784,
+      "mtime_ns": 1792809906000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "04_page_assembly/SC_I01_002b_P01_Marcus_EditableLayers_CANDIDATE_v001.ora",
+      "size_bytes": 4503623,
+      "mtime_ns": 1792768300000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "04_page_assembly/SC_I01_002c_P02_Marcus_CheekGrooming_Layered_v001.ora",
+      "size_bytes": 4518309,
+      "mtime_ns": 1792784147000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/P01_BeforeAfter_P03_Continuity_Review_v002.png",
+      "size_bytes": 534355,
+      "mtime_ns": 1792785132000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/P01_Surgical_Edit_Audit_v002.json",
+      "size_bytes": 2575,
+      "mtime_ns": 1792785139000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/P11_Warning_BeforeAfter_Proof_v001.png",
+      "size_bytes": 277039,
+      "mtime_ns": 1792785175000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/P11_Warning_SourceLock_Audit_v001.json",
+      "size_bytes": 896,
+      "mtime_ns": 1792785188000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/S01_I01_20261023_change_log_v002.json",
+      "size_bytes": 3557,
+      "mtime_ns": 1792761626000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/S01_I01_20261023_integrity_check_v002.json",
+      "size_bytes": 3258,
+      "mtime_ns": 1792761701000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/S01_I01_20261023_manifest_selection_v002.json",
+      "size_bytes": 20703,
+      "mtime_ns": 1792761614000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/S01_I01_20261023_manifest_v001.json",
+      "size_bytes": 16090,
+      "mtime_ns": 1792754700000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/S01_I01_20261023_page_selections_v001.csv",
+      "size_bytes": 7394,
+      "mtime_ns": 1792754709000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/S01_I01_20261023_selection_register_v002.csv",
+      "size_bytes": 4942,
+      "mtime_ns": 1792761690000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/S01_I01_20261023_source_audit_v001.json",
+      "size_bytes": 5070,
+      "mtime_ns": 1792754705000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/S01_I01_20261023_source_audit_v002.json",
+      "size_bytes": 5098,
+      "mtime_ns": 1792761620000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/S01_I01_20261023_visual_QA_v001.csv",
+      "size_bytes": 5318,
+      "mtime_ns": 1792754713000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/S01_I01_20261023_visual_QA_v002.csv",
+      "size_bytes": 3297,
+      "mtime_ns": 1792761695000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/S01_I01_P06_fire_chief_overheard_REVIEW_CANDIDATE_v001.provenance.json",
+      "size_bytes": 1420,
+      "mtime_ns": 1792757098000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/S01_I01_P06_lettering_QA_v001.json",
+      "size_bytes": 556,
+      "mtime_ns": 1792811159000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/S01_I01_Sprint01_SC-I01-001_Solaris_FaceLock_Compare_v002.png",
+      "size_bytes": 1607611,
+      "mtime_ns": 1792766140000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/S01_I01_Sprint01_SC-I01-001_Source_Reference_Manifest_v002.json",
+      "size_bytes": 5549,
+      "mtime_ns": 1792766146000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/S01_I01_Sprint01_Selection_Manifest_v003.json",
+      "size_bytes": 20963,
+      "mtime_ns": 1792766151000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/S01_I01_Sprint01_Selection_Manifest_v004.json",
+      "size_bytes": 23720,
+      "mtime_ns": 1793208335913100100,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/S01_I01_Sprint01_Source_Audit_v003.json",
+      "size_bytes": 5184,
+      "mtime_ns": 1792766157000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/SC_I01_002b_P01_BeforeAfter_Reference_v001.png",
+      "size_bytes": 502274,
+      "mtime_ns": 1792768306000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/SC_I01_002b_P01_Composite_Validation_v001.json",
+      "size_bytes": 899,
+      "mtime_ns": 1792768325000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/SC_I01_002b_P01_Edit_Audit_v001.json",
+      "size_bytes": 2224,
+      "mtime_ns": 1792768319000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/SC_I01_002b_P01_PixelDiff_Evidence_v001.png",
+      "size_bytes": 48620,
+      "mtime_ns": 1792768313000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/SC_I01_002c_P02_ArtQA_v001.json",
+      "size_bytes": 1883,
+      "mtime_ns": 1792784159000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/SC_I01_002c_P02_BeforeAfter_vs_P03_v001.png",
+      "size_bytes": 378060,
+      "mtime_ns": 1792784153000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/SC_I01_005_P11_P12_Transition_Gap_Proof_v002.png",
+      "size_bytes": 992146,
+      "mtime_ns": 1792788429000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/SC_I01_005_P12_Handoff_Manifest_v002.json",
+      "size_bytes": 2332,
+      "mtime_ns": 1792788444000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/SC_I01_005_P12_Panel1_BinaryEditMask_v002.png",
+      "size_bytes": 2431,
+      "mtime_ns": 1792788440000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/SC_I01_005_P12_Panel1_EditBoundary_v002.png",
+      "size_bytes": 2838129,
+      "mtime_ns": 1792788435000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/SC_I01_005_P12_Pixel_Checker_ThreeTests_v002.json",
+      "size_bytes": 1843,
+      "mtime_ns": 1792788586000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/SUNTARI-VIS-QA-001_v1.0.md",
+      "size_bytes": 2482,
+      "mtime_ns": 1792504047000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/SUNTARI_P12_PANEL_LOCK_v005.zip",
+      "size_bytes": 22167820,
+      "mtime_ns": 1792795540000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "05_qa/SUNTARI_SC-I01-005_review_packet_v004.zip",
+      "size_bytes": 5339283,
+      "mtime_ns": 1792794771000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "06_exports/S01_I01_20261023_Continuity_Contact_Sheet_v003.png",
+      "size_bytes": 6289551,
+      "mtime_ns": 1792761587000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "06_exports/S01_I01_20261023_Continuity_Review_Audit_Layout_v003.pdf",
+      "size_bytes": 4528396,
+      "mtime_ns": 1792761579000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "06_exports/S01_I01_20261023_Continuity_Review_Full_Frame_v003.pdf",
+      "size_bytes": 42962184,
+      "mtime_ns": 1792761572000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "06_exports/S01_I01_20261023_Rescue_Continuity_P06_P09_v002.png",
+      "size_bytes": 3222365,
+      "mtime_ns": 1792761594000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "06_exports/S01_I01_20261023_Source_Locked_Production_Review_Packet_v002.zip",
+      "size_bytes": 58504753,
+      "mtime_ns": 1792761781000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "06_exports/S01_I01_20261023_full_frame_contact_sheet_v001.png",
+      "size_bytes": 4492800,
+      "mtime_ns": 1792754696000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "06_exports/S01_I01_20261023_full_frame_review_v002.pdf",
+      "size_bytes": 13569770,
+      "mtime_ns": 1792754687000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/S01_I01_20261023_Continuity_Production_Report_v002.md",
+      "size_bytes": 6267,
+      "mtime_ns": 1792761725000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/S01_I01_20261023_continuity_report_v001.md",
+      "size_bytes": 9062,
+      "mtime_ns": 1792754718000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/S01_I01_20261023_release_gate_HOLD_v002.txt",
+      "size_bytes": 2028,
+      "mtime_ns": 1792761730000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/S01_I01_P03_generation_attempt_20261020_002.json",
+      "size_bytes": 2078,
+      "mtime_ns": 1792505911000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/S01_I01_P03_recovery_20261020_004.md",
+      "size_bytes": 716,
+      "mtime_ns": 1792507262000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/S01_I01_Sprint01_Production_Review_v001.md",
+      "size_bytes": 6170,
+      "mtime_ns": 1792766166000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/S01_I01_Sprint01_Recovery_Log_v001.json",
+      "size_bytes": 1162,
+      "mtime_ns": 1792766162000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/S01_I01_Sprint01_Release_Gate_HOLD_v003.txt",
+      "size_bytes": 2028,
+      "mtime_ns": 1792766172000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/SC-I01-Sprint01_CandidateReview_Packet_v001.zip",
+      "size_bytes": 17748110,
+      "mtime_ns": 1792785205000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/SC-I01-Sprint01_CandidateReview_Report_v001.md",
+      "size_bytes": 4334,
+      "mtime_ns": 1792785211000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/SC_I01_002b_Editable_Surgical_Spike_Handoff_v001.md",
+      "size_bytes": 3446,
+      "mtime_ns": 1792768419000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/SC_I01_002b_LayeredTechnique_Proof_v001.zip",
+      "size_bytes": 9403891,
+      "mtime_ns": 1792768335000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/SC_I01_002b_Masked_Compositor_Technique_Proof_v002.zip",
+      "size_bytes": 9405918,
+      "mtime_ns": 1792768427000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/SC_I01_002c_P02_ArtIteration_Review_v001.zip",
+      "size_bytes": 12504319,
+      "mtime_ns": 1792784174000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/SC_I01_002c_P02_Artistic_Handoff_v001.md",
+      "size_bytes": 4116,
+      "mtime_ns": 1792784164000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/SC_I01_005_P12_Artist_Compositor_Handoff_v002.md",
+      "size_bytes": 2920,
+      "mtime_ns": 1792788449000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/SC_I01_005_P12_Doorway_SourceBound_Handoff_v002.zip",
+      "size_bytes": 18719733,
+      "mtime_ns": 1792788424000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/SC_I01_005_P12_Doorway_SourceBound_Handoff_v003.zip",
+      "size_bytes": 18721805,
+      "mtime_ns": 1792788575000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/SC_I01_005_P12_Panel_Pixel_Checker_v002.py",
+      "size_bytes": 2555,
+      "mtime_ns": 1792788580000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/IEA-SUNTARI-PILOT-v0.1.0/IEA-SUNTARI-PILOT-v0.1.0.zip",
+      "size_bytes": 68695,
+      "mtime_ns": 1793018763545693400,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/IEA-SUNTARI-PILOT-v0.1.0/README.md",
+      "size_bytes": 15195,
+      "mtime_ns": 1792957830000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/IEA-SUNTARI-PILOT-v0.1.0/inventory.json",
+      "size_bytes": 18655,
+      "mtime_ns": 1792957830000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/IEA-SUNTARI-PILOT-v0.1.0/question_set.json",
+      "size_bytes": 4170,
+      "mtime_ns": 1792957830000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/IEA-SUNTARI-PILOT-v0.1.0/sha256_manifest.json",
+      "size_bytes": 1721,
+      "mtime_ns": 1792957830000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/IEA-SUNTARI-PILOT-v0.1.0/sources/05-IEA-001-Persona-Delta-v0.1.2-Evidence-Constrained-SAFe-Alignment.txt",
+      "size_bytes": 1788,
+      "mtime_ns": 1792957618000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/IEA-SUNTARI-PILOT-v0.1.0/sources/06-EXECUTION_REPORT.md",
+      "size_bytes": 1433,
+      "mtime_ns": 1792957618000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/IEA-SUNTARI-PILOT-v0.1.0/sources/402824335837812d847bfb5d615fb495.json",
+      "size_bytes": 13610,
+      "mtime_ns": 1792957666000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/IEA-SUNTARI-PILOT-v0.1.0/sources/402824335837819c9bd3eaba594a92df.json",
+      "size_bytes": 13901,
+      "mtime_ns": 1792957666000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/IEA-SUNTARI-PILOT-v0.1.0/sources/40282433583781aba9cbe4aa18a5df05.json",
+      "size_bytes": 17386,
+      "mtime_ns": 1792957666000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/IEA-SUNTARI-PILOT-v0.1.0/sources/40282433583781cc9c6cd162491f6e21.json",
+      "size_bytes": 23868,
+      "mtime_ns": 1792957668000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/IEA-SUNTARI-PILOT-v0.1.0/sources/4038243358378171ba33c772b5549c91.json",
+      "size_bytes": 16770,
+      "mtime_ns": 1792957666000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/IEA-SUNTARI-PILOT-v0.1.0/sources/403824335837818896d6daf89537e98e.json",
+      "size_bytes": 8954,
+      "mtime_ns": 1792957666000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/IEA-SUNTARI-PILOT-v0.1.0/sources/P09_metadata.json",
+      "size_bytes": 2185,
+      "mtime_ns": 1792957692000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/IEA-SUNTARI-PILOT-v0.1.0/sources/P10_metadata.json",
+      "size_bytes": 2173,
+      "mtime_ns": 1792957690000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/IEA-SUNTARI-PILOT-v0.1.0/sources/P11_metadata.json",
+      "size_bytes": 2143,
+      "mtime_ns": 1792957690000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/IEA-SUNTARI-PILOT-v0.1.0/sources/P12_metadata.json",
+      "size_bytes": 2158,
+      "mtime_ns": 1792957692000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/IEA-SUNTARI-PILOT-v0.1.0/sources/p11.json",
+      "size_bytes": 31923,
+      "mtime_ns": 1792957666000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/adjacent_projects/CURSOR_MASTER_PROMPT_SUNTARI_CINESEQ_002.md",
+      "size_bytes": 11505,
+      "mtime_ns": 1792843410761149300,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/adjacent_projects/SUNTARI-CINESEQ-002-production-v1.0.zip",
+      "size_bytes": 6784292,
+      "mtime_ns": 1792843406036546100,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/character_references/VAYINDRA-CHARACTER-REFERENCE-v1.0_a3aae8ef.png",
+      "size_bytes": 2588616,
+      "mtime_ns": 1792881654000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/governance/PROJECT_INSTRUCTIONS_v0.1.0.md",
+      "size_bytes": 3492,
+      "mtime_ns": 1792843492701451800,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/governance/SC-I01-001_Sprint_Review_v001.md",
+      "size_bytes": 6170,
+      "mtime_ns": 1792842918551841600,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/governance/Suntari_Production_Continuity_Quickstart.md",
+      "size_bytes": 3391,
+      "mtime_ns": 1792843182276603300,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/governance/plugins/suntari-universe-orchestrator-plugin.zip",
+      "size_bytes": 5805,
+      "mtime_ns": 1792843376289838700,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/governance/plugins/suntari-universe-orchestrator-references-review.zip",
+      "size_bytes": 11760,
+      "mtime_ns": 1792843384154571300,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/ops/SUNTARI_DOWNLOADS_RECONCILIATION_20261024.json",
+      "size_bytes": 13388,
+      "mtime_ns": 1792854169314709000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/ops/SUNTARI_OPS002_Archive_Ledger_20261024_v001.json",
+      "size_bytes": 137835,
+      "mtime_ns": 1792842278714702300,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/ops/SUNTARI_OPS002_Audit_Bundle_20261024_v001.zip",
+      "size_bytes": 50704,
+      "mtime_ns": 1792844992814379300,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/quality-first-ai-orchestrator_v1.0.0/INSTALLATION_RECORD.json",
+      "size_bytes": 1088,
+      "mtime_ns": 1792851461223036600,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/quality-first-ai-orchestrator_v1.0.0/PACKAGE_MANIFEST.json",
+      "size_bytes": 1517,
+      "mtime_ns": 1792853943559681100,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/quality-first-ai-orchestrator_v1.0.0/PHASE_A_STATUS.md",
+      "size_bytes": 1065,
+      "mtime_ns": 1792851460787054500,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/quality-first-ai-orchestrator_v1.0.0/SKILL.md",
+      "size_bytes": 24184,
+      "mtime_ns": 1792851460328004500,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/quality-first-ai-orchestrator_v1.0.0/SUNTARI_BINDINGS.md",
+      "size_bytes": 838,
+      "mtime_ns": 1792850652348285200,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/quality-first-ai-orchestrator_v1.0.0/ledger.event.schema.example.json",
+      "size_bytes": 723,
+      "mtime_ns": 1792850651480424000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/quality-first-ai-orchestrator_v1.0.0/orchestrator.config.template.yaml",
+      "size_bytes": 1113,
+      "mtime_ns": 1792850650809575300,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/quality-first-ai-orchestrator_v1.0.0/ledger/20261024_bootstrap_dry_run.jsonl",
+      "size_bytes": 702,
+      "mtime_ns": 1792850845868489100,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/LOCAL_QA_SUMMARY.json",
+      "size_bytes": 1281,
+      "mtime_ns": 1792790386955596600,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/run_local_qa.py",
+      "size_bytes": 4365,
+      "mtime_ns": 1792796080238707400,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002b/P01_Marcus_EditableFaceLayer_v001.png",
+      "size_bytes": 1565243,
+      "mtime_ns": 1792782554000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002b/P01_Marcus_FaceMask_v001.png",
+      "size_bytes": 1029,
+      "mtime_ns": 1792782554000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002b/P01_Marcus_FaceRetouch_Layered_CANDIDATE_v001.ora",
+      "size_bytes": 4503623,
+      "mtime_ns": 1792768688236360900,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002b/P01_Marcus_Magnified_PixelDiff_Proof_v001.png",
+      "size_bytes": 48620,
+      "mtime_ns": 1792782634000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002b/P01_Marcus_MaskPosition_ANNOTATION_v001.png",
+      "size_bytes": 1391414,
+      "mtime_ns": 1792782556000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002b/P01_PNL_Middle_MarcusCheekRetouch_CANDIDATE_v001.png",
+      "size_bytes": 1390461,
+      "mtime_ns": 1792782552000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002b/P01_SurgicalSpike_BeforeAfter_Reference_v001.png",
+      "size_bytes": 502274,
+      "mtime_ns": 1792782556000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002b/SC-I01-002b_Compositing_Validation_v001.json",
+      "size_bytes": 899,
+      "mtime_ns": 1792782634000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002b/SC-I01-002b_Editor_Handoff.md",
+      "size_bytes": 3446,
+      "mtime_ns": 1792782800000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002b/SC-I01-002b_MaskedSpike_Audit_v001.json",
+      "size_bytes": 2224,
+      "mtime_ns": 1792790395946807000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002b/retouch_one_face.py",
+      "size_bytes": 7462,
+      "mtime_ns": 1792782550000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002b/validate_spike.py",
+      "size_bytes": 3838,
+      "mtime_ns": 1792782634000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002c/P02_CheekGrooming_SourceLocked_CANDIDATE_v001.ora",
+      "size_bytes": 4518309,
+      "mtime_ns": 1792784437312075000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002c/P02_Face_BeforeAfter_vs_P03_REFERENCE_v001.png",
+      "size_bytes": 378060,
+      "mtime_ns": 1792798442000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002c/P02_Face_LocalEdit_Audit_v001.json",
+      "size_bytes": 1883,
+      "mtime_ns": 1792798430000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002c/P02_TOP_CheekGrooming_EditLayer_v001.png",
+      "size_bytes": 1584967,
+      "mtime_ns": 1792798442000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002c/P02_TOP_FACE_vs_P03_REFERENCE.png",
+      "size_bytes": 494767,
+      "mtime_ns": 1792798240000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002c/P02_TOP_Face_AllowedMask_v001.png",
+      "size_bytes": 940,
+      "mtime_ns": 1792798442000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002c/P02_TOP_Marcus_CheekGrooming_CANDIDATE_v001.png",
+      "size_bytes": 1400770,
+      "mtime_ns": 1792798442000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002c/S01_I01_P02_from_creator_accepted_spread_REVIEW_CROP_v002.png",
+      "size_bytes": 1406633,
+      "mtime_ns": 1792798156000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002c/S01_I01_P03_continuity_revision_v008.png",
+      "size_bytes": 2745687,
+      "mtime_ns": 1792798162000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002c/SC-I01-002c_Artistic_Review_Handoff_v001.md",
+      "size_bytes": 4116,
+      "mtime_ns": 1792798500000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002c/ZIP_MANIFEST.json",
+      "size_bytes": 1833,
+      "mtime_ns": 1792798502000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-002c/retouch_page02_cheek.py",
+      "size_bytes": 5854,
+      "mtime_ns": 1792798426000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-005/Orion_Creator_Approved_Reference.png",
+      "size_bytes": 3465235,
+      "mtime_ns": 1792802784000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-005/P03_Marcus_Approved_Primary_Reference.png",
+      "size_bytes": 2745687,
+      "mtime_ns": 1792802784000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-005/P11_Kaldraak_Warning_Review_Candidate.png",
+      "size_bytes": 2607674,
+      "mtime_ns": 1792802784000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-005/P11_to_P12_ActualSource_Transition_Gap_Proof_v002.png",
+      "size_bytes": 992146,
+      "mtime_ns": 1792802786000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-005/P12_Exact_EditBoundary_Annotated_v002.png",
+      "size_bytes": 2838129,
+      "mtime_ns": 1792802786000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-005/P12_PNL01_EditableInterior_Mask_v002.png",
+      "size_bytes": 2431,
+      "mtime_ns": 1792802784000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-005/P12_PNL01_Selected_Original_Extract.png",
+      "size_bytes": 897986,
+      "mtime_ns": 1792802784000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-005/P12_PNL01_SourceLocked_COMPOSITOR_STARTER_v001.ora",
+      "size_bytes": 6391813,
+      "mtime_ns": 1792790378352172600,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-005/P12_PNL02_PNL03_Protected_Exact_Pixels.png",
+      "size_bytes": 2090718,
+      "mtime_ns": 1792802784000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-005/P12_Selected_Immutable_Original.png",
+      "size_bytes": 3217915,
+      "mtime_ns": 1792802784000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-005/SC-I01-005_Artist_Compositor_Handoff_v002.md",
+      "size_bytes": 2920,
+      "mtime_ns": 1792802786000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-005/SC-I01-005_P12_Source_Locked_Handoff_Manifest_v002.json",
+      "size_bytes": 2332,
+      "mtime_ns": 1792802786000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-005/SC-I01-005_Pixel_Boundary_Tests_v002.json",
+      "size_bytes": 1843,
+      "mtime_ns": 1792802946000000000,
+      "content_copied": false
+    },
+    {
+      "root": "production",
+      "relative_path": "07_evidence/windows_execution_mirror/SC-I01-005/validate_p12_panel1_patch.py",
+      "size_bytes": 2555,
+      "mtime_ns": 1792802942000000000,
+      "content_copied": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,9 @@
+{
+  "schema_version": "1.0",
+  "orchestrator": "Existing Suntari Universe Orchestrator plugin folder",
+  "execution": "Existing SUNTARI_S01_I01_Execution folder",
+  "production": "Existing private SUNTARI-S01-I01 production library",
+  "absolute_paths": "Retained in existing workstation/Notion records; not needed for repository index",
+  "file_operations": "NO_MOVE_NO_DELETE_NO_OVERWRITE",
+  "automatic_sync": false
+}
